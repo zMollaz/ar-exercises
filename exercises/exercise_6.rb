@@ -40,4 +40,4 @@ puts "----------"
   hourly_rate: 50
 )
 
-puts Employee.all.inspect
+# puts Employee.all.inspect
